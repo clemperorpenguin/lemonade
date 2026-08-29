@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-29T02:57:56.081405+00:00",
+  "run_id": "32803353833",
+  "run_url": "https://github.com/clemperorpenguin/lemonade/actions/runs/32803353833",
+  "repo": "clemperorpenguin/lemonade",
+  "repo_url": "https://github.com/clemperorpenguin/lemonade",
+  "actions_url": "https://github.com/clemperorpenguin/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "f0c1ed8c5af3b1e158c20aac949d66868d8bc73c",
+  "lemonade_version": null,
+  "by_model_scenario": {},
+  "history": {}
+}
